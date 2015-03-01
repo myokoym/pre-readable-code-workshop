@@ -2,7 +2,7 @@
 
 ## 言語
 
-Ruby
+[Ruby](https://www.ruby-lang.org/ja/)
 
 ## 実行方法
 
