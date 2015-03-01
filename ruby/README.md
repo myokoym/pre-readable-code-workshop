@@ -6,6 +6,14 @@
 
 ## 実行方法
 
+### Unix
+
 ```zsh
 % ./recipe.rb
+```
+
+### Windows
+
+```bat
+> ruby recipe.rb
 ```
